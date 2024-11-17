@@ -1,0 +1,5 @@
+{"device": "0000", "timestamp": 1727172437,  "temperatura": 16,  "umidità": 0.36,  "dig1": 0,  "pressione": 1.67}
+{"device": "0002", "timestamp": 1727172438,  "temperatura": -12,  "umidità": 0.31,  "dig1": 1,  "pressione": 0.61}
+{"device": "0003", "timestamp": 1727172441,  "temperatura": -13,  "umidità": 0.36,  "dig1": 1,  "pressione": 0.92}
+{"device": "0004", "timestamp": 1727172442,  "temperatura": 4,  "umidità": 0.35,  "dig1": 1,  "pressione": 0.85}
+{"device": "0001", "timestamp": 1727172444,  "temperatura": -7,  "umidità": 0.54,  "dig1": 0,  "pressione": 1.06}
