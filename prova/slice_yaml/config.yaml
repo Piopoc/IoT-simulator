@@ -1,0 +1,17 @@
+num_devices: 5
+send_every_secs: 30
+sensors:
+    - name: temperatura
+      type: integer
+      max_value: 30
+      min_value: -15
+    - name: umidità
+      type: float
+      max_value: 0.8
+      min_value: 0.05
+    - name: pressione
+      type: float
+      max_value: 2
+      min_value: 0.5
+    - name: dig1
+      type: digital
