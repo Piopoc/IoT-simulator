@@ -7,7 +7,6 @@ Il file contiene:
 - un intervallo temporale (in secondi) per l'invio dei dati per ogni device
 - 3 sensori ognugno con id, name, tipo e, opzionalmente, valori massimi e minimi
 
-
 ## Funzioni 
 - readConf()
     - legge il file di configurazione
@@ -33,6 +32,3 @@ Il file contiene:
     - la funzione si occupa di convertire il messaggio sottoforma di stringa in un array di byte
     - pubblica il messaggio serialiazzato in un topic e prima di proseguire mi assicuro che la pubblicazione del dato non dia errori
     - riempio un file di log con il riassunto dei dati che sono stati pubblicati correttamente nel topic
-
-# Da chiedere
-- è problema togliere accento alle parole
