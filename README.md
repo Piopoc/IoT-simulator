@@ -162,4 +162,3 @@ La query è limitata a **100 record** per ottimizzazione.
 ## 📝 License
 
 MIT License
-# SIMULATOR
